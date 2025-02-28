@@ -1,6 +1,6 @@
 const Navbar = () => {
   return (
-    <div className="bg-white border-y-white p-10 w-6 min-h-48"></div>
+    <div className="bg-stone-900 rounded-md m-2 w-[220px] h-screen"></div>
   )
 }
 
